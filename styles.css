@@ -1,0 +1,7 @@
+.card {
+    box-shadow: 0 0 20px 2px rgb(255, 52, 221);
+    margin: 15px;
+}
+.selected {
+    background-color: blue; 
+}
